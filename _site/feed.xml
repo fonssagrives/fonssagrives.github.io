@@ -6,17 +6,17 @@
 </description>
     <link>http://fonssagrives.github.io/</link>
     <atom:link href="http://fonssagrives.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2016 19:39:06 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2016 19:39:06 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Feb 2016 19:47:41 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Feb 2016 19:47:41 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Which districts are building new housing? A look at construction starts in England</title>
-        <description>&lt;p&gt;Housing was a major issue in the 2015 election, with the Conservatives winning an increased mandate in part on a pledge to build 200,000 starter homes over the course of the next parliament. However, with new construction having stagnated for many years experts say even this ambitious target will not suffice to make home ownership affordable to the average buyer. This is reflected by the data, which show that many of the most expensive regions of England remain at the bottom of the scale in terms of new construction.&lt;/p&gt;
+        <description>&lt;p&gt;Housing was a major issue in the 2015 election, with the Conservatives winning an increased mandate in part on a pledge to build 200,000 starter homes over the course of the next parliament. However, with new construction having stagnated for many years experts say even this ambitious target will not suffice to make home ownership affordable to the average buyer. This is reflected by figures from a government transparency body, &lt;a href=&quot;data.gov.uk&quot;&gt;data.gov.uk&lt;/a&gt;, which show that many of the most expensive regions of England remain at the bottom of the scale in terms of new construction.&lt;/p&gt;
 
-&lt;p&gt;This interactive graphic compares levels of new housebuilding per capita across England, breaking down the number of new housing starts in each district by private developers, local authorities, and not-for-profit housing associations. Districts are also shaded, with dark blue indicating a high level of construction across this ten year period and lighter shades showing fewer new homes.&lt;/p&gt;
+&lt;p&gt;This interactive map compares levels of new housebuilding per capita across England from 2005 through the first three quarters of 2015, breaking down the number of new housing starts in each district by private developers, local authorities, and not-for-profit housing associations. Districts are also shaded, with dark blue indicating a high level of construction across the ten-year period under examination and lighter shades showing fewer new homes.&lt;/p&gt;
 
-&lt;p&gt;There is no simple geographic distribution to which districts build more than others, although it generally holds that the least new housing relative to population is being added in the Home Counties while many of the most productive districts are found in the Midlands. The data reflect an almost complete halt to building by local councils, although housing associations have continued to build in some areas. In many areas, building has yet to recover from the 2008 financial crash.&lt;/p&gt;
+&lt;p&gt;There is no simple geographic distribution to which districts build more than others, although it generally holds that the least new housing relative to population is being added in the Home Counties. Many of the most productive districts are found in the Midlands. The data reflect an almost complete halt to building by local councils, although housing associations have continued to build in some areas. In many areas, building has yet to recover from the 2008 financial crash.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -28,16 +28,17 @@
 
 &lt;h2 id=&quot;sources-and-future-directions&quot;&gt;Sources and future directions&lt;/h2&gt;
 
-&lt;p&gt;I used data on housing construction covering the period from 2005 through the first three quarters of 2015 sourced from &lt;a href=&quot;http://data.gov.uk&quot;&gt;data.gov.uk&lt;/a&gt;. Figures for each district’s population come from ONS’s annual mid year population estimate for 2013. For a few districts, there data is missing for several years, which often shows up as a sharp increase from zero (for example, Northumberland and East Hertfordshire).&lt;/p&gt;
+&lt;p&gt;I used data on housing construction covering the period from 2005 through the first three quarters of 2015 from &lt;a href=&quot;http://data.gov.uk&quot;&gt;data.gov.uk&lt;/a&gt;. Figures for each district’s population come from ONS’s annual mid year population estimate for 2013. For a few districts, there are data missing for several years, which often appears as a sharp increase from zero (for example, Northumberland and East Hertfordshire).&lt;/p&gt;
 
-&lt;p&gt;There are several types of data which could be added to this choropleth to further illustrate factors which may contribute to, or correlate with, the rate of new housing construction. These include:&lt;/p&gt;
+&lt;p&gt;There are several levels of information which could be added to this choropleth to further illustrate factors which may contribute to, or correlate with, the rate of new housing construction. These include:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;House prices, or price per square foot&lt;/li&gt;
+  &lt;li&gt;Population growth&lt;/li&gt;
   &lt;li&gt;Employment&lt;/li&gt;
   &lt;li&gt;Household earnings&lt;/li&gt;
+  &lt;li&gt;Availability of land&lt;/li&gt;
   &lt;li&gt;Local political control&lt;/li&gt;
-  &lt;li&gt;Land availability&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
