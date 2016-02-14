@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Casement-Stoll</title>
+    <description>Aspiring journalist, interested in European politics, economics, America&#39;s place in the world,  and technology.  &lt;br/&gt; Talk to me about your first world problems &lt;a href=&#39;http://twitter.com/fonssagrives&#39;&gt;@fonssagrives&lt;a/&gt;. 
+</description>
+    <link>http://bacallado.github.io/</link>
+    <atom:link href="http://bacallado.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Feb 2016 12:14:53 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Feb 2016 12:14:53 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Which councils are good at building housing?</title>
+        <description>&lt;p&gt;This is an introduction to our investigative story.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. — &lt;a href=&quot;http://en.wikipedia.org/wiki/HAL_9000&quot;&gt;HAL 9000&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline&lt;/span&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline&lt;/span&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+
+&lt;div id=&quot;containment&quot;&gt;&lt;iframe src=&quot;http://statslab.cam.ac.uk/~sb2116/dataviz&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;850px&quot; height=&quot;700px&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type &lt;code class=&quot;highlighter-rouge&quot;&gt;COPY filename&lt;/code&gt;. &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; &lt;span style=&quot;text-decoration:underline;&quot;&gt;Let’s make that 7&lt;/span&gt;. This &lt;del&gt;text&lt;/del&gt; has been struck.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+
+&lt;h3 id=&quot;big-image&quot;&gt;Big Image&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/joon-big.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+
+&lt;h3 id=&quot;small-image&quot;&gt;Small Image&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/joon-small.jpg&quot; alt=&quot;Small Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Labore et dolore.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;text-level-semantics&quot;&gt;Text-level semantics&lt;/h2&gt;
+
+&lt;p&gt;HTML elements&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;#&quot;&gt;a element&lt;/a&gt; example &lt;br /&gt;
+The &lt;abbr&gt;abbr element&lt;/abbr&gt; and &lt;abbr title=&quot;Title text&quot;&gt;abbr element with title&lt;/abbr&gt; examples &lt;br /&gt;
+The &lt;b&gt;b element&lt;/b&gt; example &lt;br /&gt;
+The &lt;cite&gt;cite element&lt;/cite&gt; example &lt;br /&gt;
+The &lt;code&gt;code element&lt;/code&gt; example &lt;br /&gt;
+The &lt;del&gt;del element&lt;/del&gt; example &lt;br /&gt;
+The &lt;dfn&gt;dfn element&lt;/dfn&gt; and &lt;dfn title=&quot;Title text&quot;&gt;dfn element with title&lt;/dfn&gt; examples &lt;br /&gt;
+The &lt;em&gt;em element&lt;/em&gt; example &lt;br /&gt;
+The &lt;i&gt;i element&lt;/i&gt; example &lt;br /&gt;
+The &lt;ins&gt;ins element&lt;/ins&gt; example &lt;br /&gt;
+The &lt;kbd&gt;kbd element&lt;/kbd&gt; example &lt;br /&gt;
+The &lt;mark&gt;mark element&lt;/mark&gt; example &lt;br /&gt;
+The &lt;q&gt;q element &lt;q&gt;inside&lt;/q&gt; a q element&lt;/q&gt; example &lt;br /&gt;
+The &lt;s&gt;s element&lt;/s&gt; example &lt;br /&gt;
+The &lt;samp&gt;samp element&lt;/samp&gt; example &lt;br /&gt;
+The &lt;small&gt;small element&lt;/small&gt; example &lt;br /&gt;
+The &lt;span&gt;span element&lt;/span&gt; example &lt;br /&gt;
+The &lt;strong&gt;strong element&lt;/strong&gt; example &lt;br /&gt;
+The &lt;sub&gt;sub element&lt;/sub&gt; example &lt;br /&gt;
+The &lt;sup&gt;sup element&lt;/sup&gt; example &lt;br /&gt;
+The &lt;var&gt;var element&lt;/var&gt; example &lt;br /&gt;
+The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://bacallado.github.io/2015/02/13/housing.html</link>
+        <guid isPermaLink="true">http://bacallado.github.io/2015/02/13/housing.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
