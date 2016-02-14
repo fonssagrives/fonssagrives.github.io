@@ -6,49 +6,36 @@
 </description>
     <link>http://fonssagrives.github.io/</link>
     <atom:link href="http://fonssagrives.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2016 16:47:25 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2016 16:47:25 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Feb 2016 19:26:38 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Feb 2016 19:26:38 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Which councils are good at building housing?</title>
-        <description>&lt;p&gt;This is an introduction to our investigative story.&lt;/p&gt;
+        <title>Where is new housing actually being built? A look at new construction in England</title>
+        <description>&lt;p&gt;Housing was a major issue in the 2015 election, with the Conservatives winning an increased mandate in part on a pledge to build 200,000 starter homes over the course of the next parliament. However, with new construction having stagnated for many years experts say even this ambitious target will not suffice to make home ownership affordable to the average buyer. This is reflected by the data, which show that many of the most expensive regions of England remain at the bottom of the scale in terms of new construction.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. — &lt;a href=&quot;http://en.wikipedia.org/wiki/HAL_9000&quot;&gt;HAL 9000&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;This interactive graphic compares levels of new housebuilding per capita across England, breaking down the number of new housing starts in each district by private developers, local authorities, and not-for-profit housing associations. Districts are also shaded, with dark blue indicating a high level of construction across this ten year period and lighter shades showing fewer new homes.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline&lt;/span&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+&lt;p&gt;There is no simple geographic distribution to which districts build more than others, although it generally holds that the least new housing is being added in the Home Counties while many of the most productive districts are found in the Midlands. The data reflect an almost complete halt to building by local councils, although housing associations have continued to build in some areas. In many areas, building has yet to recover from the 2008 financial crash.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline&lt;/span&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-
-&lt;h3 id=&quot;choropleth-with-some-data&quot;&gt;Choropleth with some data&lt;/h3&gt;
+&lt;h3 id=&quot;new-housing-starts-in-england-2005-2015&quot;&gt;New housing starts in England, 2005-2015&lt;/h3&gt;
 
 &lt;div id=&quot;containment&quot;&gt;&lt;iframe src=&quot;http://statslab.cam.ac.uk/~sb2116/dataviz&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;850px&quot; height=&quot;700px&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type &lt;code&gt;COPY filename&lt;/code&gt;. &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; &lt;span style=&quot;text-decoration:underline;&quot;&gt;Let’s make that 7&lt;/span&gt;. This &lt;del&gt;text&lt;/del&gt; has been struck.&lt;/p&gt;
-
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
+&lt;h2 id=&quot;sources-and-future-directions&quot;&gt;Sources and future directions&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
+&lt;p&gt;I used data on housing construction covering the period from 2005 through the first three quarters of 2015 sourced from [data.gov.uk] (http://data.gov.uk). Figures for the 2013 population of each district come from […]. For a few districts, there data is missing for several years, which often shows up as a sharp increase from zero (for example, Northumberland and East Hertfordshire).&lt;/p&gt;
 
-&lt;h3 id=&quot;big-image&quot;&gt;Big Image&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/content/images/joon-big.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
-
-&lt;h3 id=&quot;small-image&quot;&gt;Small Image&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/content/images/joon-small.jpg&quot; alt=&quot;Small Test Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Labore et dolore.&lt;/p&gt;
+&lt;p&gt;There are several types of data which could be added to this choropleth to further illustrate factors which may contribute to, or correlate with, the rate of new housing construction. These include:
+- House prices, or price per square foot
+- Employment
+- Household earnings
+- Local political control
+- Land availability&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
@@ -57,32 +44,6 @@
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;hr /&gt;
-
-&lt;h2 id=&quot;text-level-semantics&quot;&gt;Text-level semantics&lt;/h2&gt;
-
-&lt;p&gt;HTML elements&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&quot;#&quot;&gt;a element&lt;/a&gt; example &lt;br /&gt;
-The &lt;abbr&gt;abbr element&lt;/abbr&gt; and &lt;abbr title=&quot;Title text&quot;&gt;abbr element with title&lt;/abbr&gt; examples &lt;br /&gt;
-The &lt;b&gt;b element&lt;/b&gt; example &lt;br /&gt;
-The &lt;cite&gt;cite element&lt;/cite&gt; example &lt;br /&gt;
-The &lt;code&gt;code element&lt;/code&gt; example &lt;br /&gt;
-The &lt;del&gt;del element&lt;/del&gt; example &lt;br /&gt;
-The &lt;dfn&gt;dfn element&lt;/dfn&gt; and &lt;dfn title=&quot;Title text&quot;&gt;dfn element with title&lt;/dfn&gt; examples &lt;br /&gt;
-The &lt;em&gt;em element&lt;/em&gt; example &lt;br /&gt;
-The &lt;i&gt;i element&lt;/i&gt; example &lt;br /&gt;
-The &lt;ins&gt;ins element&lt;/ins&gt; example &lt;br /&gt;
-The &lt;kbd&gt;kbd element&lt;/kbd&gt; example &lt;br /&gt;
-The &lt;mark&gt;mark element&lt;/mark&gt; example &lt;br /&gt;
-The &lt;q&gt;q element &lt;q&gt;inside&lt;/q&gt; a q element&lt;/q&gt; example &lt;br /&gt;
-The &lt;s&gt;s element&lt;/s&gt; example &lt;br /&gt;
-The &lt;samp&gt;samp element&lt;/samp&gt; example &lt;br /&gt;
-The &lt;small&gt;small element&lt;/small&gt; example &lt;br /&gt;
-The &lt;span&gt;span element&lt;/span&gt; example &lt;br /&gt;
-The &lt;strong&gt;strong element&lt;/strong&gt; example &lt;br /&gt;
-The &lt;sub&gt;sub element&lt;/sub&gt; example &lt;br /&gt;
-The &lt;sup&gt;sup element&lt;/sup&gt; example &lt;br /&gt;
-The &lt;var&gt;var element&lt;/var&gt; example &lt;br /&gt;
-The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
