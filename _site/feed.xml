@@ -6,8 +6,8 @@
 </description>
     <link>http://fonssagrives.github.io/</link>
     <atom:link href="http://fonssagrives.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2016 19:26:38 +0000</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2016 19:26:38 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Feb 2016 19:34:14 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Feb 2016 19:34:14 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,20 +28,14 @@
 
 &lt;h2 id=&quot;sources-and-future-directions&quot;&gt;Sources and future directions&lt;/h2&gt;
 
-&lt;p&gt;I used data on housing construction covering the period from 2005 through the first three quarters of 2015 sourced from [data.gov.uk] (http://data.gov.uk). Figures for the 2013 population of each district come from […]. For a few districts, there data is missing for several years, which often shows up as a sharp increase from zero (for example, Northumberland and East Hertfordshire).&lt;/p&gt;
+&lt;p&gt;I used data on housing construction covering the period from 2005 through the first three quarters of 2015 sourced from &lt;a href=&quot;http://data.gov.uk&quot;&gt;data.gov.uk&lt;/a&gt;. Figures for each district’s population come from ONS’s annual mid year population estimate for 2013. For a few districts, there data is missing for several years, which often shows up as a sharp increase from zero (for example, Northumberland and East Hertfordshire).&lt;/p&gt;
 
 &lt;p&gt;There are several types of data which could be added to this choropleth to further illustrate factors which may contribute to, or correlate with, the rate of new housing construction. These include:
-- House prices, or price per square foot
-- Employment
-- Household earnings
-- Local political control
-- Land availability&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  * House prices, or price per square foot
+  * Employment
+  * Household earnings
+  * Local political control
+  * Land availability&lt;/p&gt;
 
 &lt;hr /&gt;
 
